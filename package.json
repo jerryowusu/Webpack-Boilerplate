@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/jerryowusu/To-Do-List/issues"
   },
-  "homepage": "https://github.com/jerryowusu/To-Do-List#readme"
+  "homepage": "https://github.com/jerryowusu/To-Do-List#readme",
+  "devDependencies": {
+    "webpack": "^5.68.0",
+    "webpack-cli": "^4.9.2"
+  }
 }
