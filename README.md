@@ -1,2 +1,2 @@
 # To-Do-List
-I created a JavaScript ES6 ToDo list by using webpack to bundle JavaScript.
+In this project, I created a webpack boilerplate with the help of the webpack documentation.
